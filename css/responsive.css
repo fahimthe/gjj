@@ -1,0 +1,218 @@
+@media (min-width: 320px) and (max-width: 479.98px){
+  
+   /*  header part*/
+   #header .header .header_right {
+	 display: none;
+}
+    
+#header .nav .navbar_item .nav_right .nav_right_image img {
+	display: none;
+}
+    
+#header .nav .navbar_item .nav_right .navbar_icons {
+	display: none;
+}    
+#header .nav .navbar_item .nav_left a span {
+	display: none;
+}
+#header .nav .navbar_item .nav_right .navbar_modal a i {
+	font-size: 22px;
+}    
+    /* BANNER PART */
+.banner_slider{
+    padding: 95px 0 !important;
+}
+.banner_slider_2{
+
+    padding: 95px 0 !important;
+}
+.banner_slider_3{
+
+    padding: 95px 0 !important;
+}
+.banner_slider_4{
+
+    padding: 95px 0 !important;
+}   
+#banner .banner .prev{
+	 display: none !important;
+}    
+#banner .banner .next{
+    display: none !important;
+}  
+    /*marque part  */
+    .marque marquee {
+        font-size: 13px;
+    }   
+    
+    /* off can */
+    
+    #ofcanvaa .offcanvas-body .offcan_menu ul li a {
+        font-size: 15px;
+    }
+    /* linker part */
+    #linker .linker .linker_text {
+        border-right: 1px solid transparent;
+    }
+    /* Counter part */
+    #counter .counter .counter_main .counter_item {
+        padding: 20px 0;
+    }
+    
+    
+    
+    /* card */
+    #card .card .card_main .card_text h3 {
+        font-size: 14px;
+    }
+    #card .card .card_main .card_text h4 {
+        font-size: 14px;
+        padding: 5px 0;
+    }
+    #card .card .card_main .card_text h5 {
+        font-size: 14px;
+    }
+    /*  banner two */
+    
+    #banner_two .banner_head h3 {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+    
+    #card_two .card_two_main {
+        margin-top: 20px;
+    } 
+    
+    iframe {
+        border: 0;
+        height: 300px !important;
+    }
+    
+    
+    
+    }
+
+    @media (min-width: 480px) and (max-width: 575.98px){
+  
+        /*  header part*/
+        #header .header .header_right {
+          display: none;
+     }
+         
+     #header .nav .navbar_item .nav_right .nav_right_image img {
+         display: none;
+     }
+         
+     #header .nav .navbar_item .nav_right .navbar_icons {
+         display: none;
+     }    
+     #header .nav .navbar_item .nav_left a span {
+         display: none;
+     }
+     #header .nav .navbar_item .nav_right .navbar_modal a i {
+         font-size: 22px;
+     }    
+         /* BANNER PART */
+     .banner_slider{
+         padding: 150px 0 !important;
+     }
+     .banner_slider_2{
+     
+         padding: 150px 0 !important;
+     }
+     .banner_slider_3{
+     
+         padding: 150px 0 !important;
+     }
+     .banner_slider_4{
+     
+         padding: 150px 0 !important;
+     }   
+     #banner .banner .prev{
+          display: none !important;
+     }    
+     #banner .banner .next{
+         display: none !important;
+     }  
+         /*marque part  */
+         .marque marquee {
+             font-size: 13px;
+         }   
+         
+         /* off can */
+         
+         #ofcanvaa .offcanvas-body .offcan_menu ul li a {
+             font-size: 15px;
+         }
+         /* linker part */
+         #linker .linker .linker_text {
+             border-right: 1px solid transparent;
+         }
+         /* Counter part */
+         #counter .counter .counter_main .counter_item {
+             padding: 20px 0;
+         }
+         
+         
+         
+         /* card */
+         #card .card .card_main .card_text h3 {
+             font-size: 14px;
+         }
+         #card .card .card_main .card_text h4 {
+             font-size: 14px;
+             padding: 5px 0;
+         }
+         #card .card .card_main .card_text h5 {
+             font-size: 14px;
+         }
+         /*  banner two */
+         
+         #banner_two .banner_head h3 {
+             font-size: 15px;
+             padding: 10px 0;
+         }
+         
+         #card_two .card_two_main {
+             margin-top: 20px;
+         } 
+         
+         iframe {
+             border: 0;
+             height: 300px !important;
+         }
+         
+         #linker .linker .linker_slider{
+
+            display: none;
+            
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+         
+         }
